@@ -65,3 +65,5 @@ This project compares two neural network architectures on **Fashion MNIST**:
 ---
 
 ## Files  
+- [main.py](main.py) → Main script of the experiment
+- [Fashion_MNIST_English.pdf](Fashion_MNIST_English.pdf) → Project report
